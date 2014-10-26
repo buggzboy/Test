@@ -1,0 +1,37 @@
+[17:51:02] [main/INFO]: Setting user: Player101
+[17:51:06] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:51:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Test
+[17:51:15] [Sound Library Loader/INFO]: Sound engine started
+[17:51:23] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:51:23] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:51:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Test
+[17:51:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:51:24] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:51:25] [Sound Library Loader/INFO]: Sound engine started
+[17:52:43] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:52:43] [Server thread/INFO]: Generating keypair
+[17:52:43] [Server thread/INFO]: Converting map!
+[17:52:43] [Server thread/INFO]: Scanning folders...
+[17:52:43] [Server thread/INFO]: Total conversion count is 0
+[17:52:43] [Server thread/WARN]: Unable to find spawn biome
+[17:52:43] [Server thread/INFO]: Preparing start region for level 0
+[17:52:44] [Server thread/INFO]: Preparing spawn area: 18%
+[17:52:45] [Server thread/INFO]: Preparing spawn area: 43%
+[17:52:46] [Server thread/INFO]: Preparing spawn area: 63%
+[17:52:47] [Server thread/INFO]: Preparing spawn area: 84%
+[17:52:48] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:53:12] [Server thread/INFO]: Player101[local:E:c12d1013] logged in with entity id 7 at (-7.5, 237.0, -3.5)
+[17:53:12] [Server thread/INFO]: Player101 joined the game
+[17:53:24] [Server thread/INFO]: Player101 has just earned the achievement [Taking Inventory]
+[17:53:24] [Client thread/INFO]: [CHAT] Player101 has just earned the achievement [Taking Inventory]
+[17:53:44] [Server thread/INFO]: Saving and pausing game...
+[17:53:44] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:53:44] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:53:44] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:57:22] [Client thread/INFO]: Stopping!
+[17:57:22] [Server thread/INFO]: Stopping server
+[17:57:22] [Server thread/INFO]: Saving players
+[17:57:22] [Server thread/INFO]: Saving worlds
+[17:57:22] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:57:22] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:57:22] [Server thread/INFO]: Saving chunks for level 'New World'/The End
