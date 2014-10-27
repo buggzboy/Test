@@ -1,0 +1,21 @@
+[
+{
+  "modid": "test",
+  "name": "Test",
+  "description": "THis is kinda stupid, just a test.  IGNORE EVERYTHING",
+  "version": "${mod_version}",
+  "mcversion": "${minecraft_version}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "buggzboy"
+  ],
+  "credits": "buggzboy",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
