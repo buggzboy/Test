@@ -12,7 +12,7 @@ public class Test {
     @SubscribeEvent
     public void preInit(FMLPreInitializationEvent event){
 
-        
+        System.out.println("hi");
 
     }
 
