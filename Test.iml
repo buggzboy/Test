@@ -10,6 +10,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="CodeChickenCore-1.7.10-1.0.4.29-src" level="project" />
+    <orderEntry type="library" exported="" name="NotEnoughItems-1.7.10-1.0.3.64-src" level="project" />
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
@@ -667,6 +669,15 @@
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/libs/NotEnoughItems-1.7.10-1.0.3.64-src.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/libs/Waila_API_1.4.5.zip" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
