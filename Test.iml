@@ -674,15 +674,6 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/libs/Waila_API_1.4.5.zip" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="" scope="RUNTIME">
       <library>
         <CLASSES>
@@ -692,6 +683,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="Waila_API_1.4.5" level="project" />
   </component>
 </module>
 
